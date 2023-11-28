@@ -1,0 +1,42 @@
+{
+    "name" : "Adam Gilchrist",
+    "email" : "adam@gmail.com",
+    "jobTitle" : "Batsman",
+    "phone" : "075 0297 3210",
+    "imageUrl" : "https://empmanagerimagebucket.s3.ap-northeast-1.amazonaws.com/4825015.png"
+},
+{
+    "name" : "Ricky Ponting",
+    "email" : "ricky@gmail.com",
+    "jobTitle" : "Umpire",
+    "phone" : "075 0297 3210",
+    "imageUrl" : "https://empmanagerimagebucket.s3.ap-northeast-1.amazonaws.com/4825021.png"
+},
+{
+    "name" : "Glen McGrath",
+    "email" : "glen@gmail.com",
+    "jobTitle" : "Bowler",
+    "phone" : "075 0297 3210",
+    "imageUrl" : "https://empmanagerimagebucket.s3.ap-northeast-1.amazonaws.com/4825044.png"
+},
+{
+    "name" : "Melina Gilchrist",
+    "email" : "malina@gmail.com",
+    "jobTitle" : "Model",
+    "phone" : "075 0297 3210",
+    "imageUrl" : "https://empmanagerimagebucket.s3.ap-northeast-1.amazonaws.com/4825027.png"
+},
+{
+    "name" : "Kumar Sangakkara",
+    "email" : "kumar@gmail.com",
+    "jobTitle" : "ICC Chairman",
+    "phone" : "075 0297 3210",
+    "imageUrl" : "https://empmanagerimagebucket.s3.ap-northeast-1.amazonaws.com/4825051.png"
+},
+{
+    "name" : "Grace. Hayden",
+    "email" : "grace@gmail.com",
+    "jobTitle" : "Actress",
+    "phone" : "075 0297 3210",
+    "imageUrl" : "https://empmanagerimagebucket.s3.ap-northeast-1.amazonaws.com/4825072.png"
+}
